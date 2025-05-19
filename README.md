@@ -166,11 +166,9 @@ Updated README if needed.
 
 Contact
 
-Author: Nikhal (replace with your name)
+Author: Nikhal 
 GitHub: nikhal99
-Email: your.email@example.com
-LinkedIn: [Your LinkedIn] (optional)
 
 For issues or suggestions, open an issue on GitHub.
 
-Thank you for exploring the Airline Management System! This project showcases my skills in full-stack development and testing, ready to contribute to innovative teams like Nykaa’s.
+Thank you for exploring the Airline Management System!
